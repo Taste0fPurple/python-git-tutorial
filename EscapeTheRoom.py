@@ -673,4 +673,4 @@ class MyClient(discord.Client):
 client = MyClient()
 #--------------------------------------------
 client.run('token')
-#token removed here to avoid problems with the token being compromised
+#token
